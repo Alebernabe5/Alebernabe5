@@ -51,9 +51,9 @@ Desarrollador full-stack y móvil, apasionado por crear soluciones limpias, efic
 ## 📞 Contacto
 <p>
   <!-- Añade tus enlaces reales -->
-  <a href="mailto:TU_CORREO"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/TU_USUARIO"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="mailto:alejandrobernabeguerrero@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/alejandro-bernab%C3%A9-guerrero-708b791b2/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/Alebernabe5"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
