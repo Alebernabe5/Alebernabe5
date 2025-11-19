@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Hola, soy **Spy Alejandro Bernabé Guerrero**
 
-<!--
-**Alebernabe5/Alebernabe5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 👉 Aquí puedes poner tu logo -->
+<!-- <img src="URL_DE_TU_LOGO" alt="Logo" width="150"/> -->
 
-Here are some ideas to get you started:
+Desarrollador full-stack y móvil, apasionado por crear soluciones limpias, eficientes y bien diseñadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 📌 Sobre mí
+- Amante del código limpio y las arquitecturas bien pensadas.  
+- Me gusta trabajar tanto en frontend como backend.  
+- También desarrollo apps móviles y videojuegos.  
+
+---
+
+## 🛠️ Tecnologías que utilizo
+
+### **Lenguajes**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,php" height="40" />
+</p>
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+</p>
+
+### **Backend & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" />
+</p>
+
+### **Bases de datos**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="40" />
+</p>
+
+### **Mobile & Game Dev**
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,unity" height="40" />
+</p>
+
+---
+
+## 📞 Contacto
+<p>
+  <!-- Añade tus enlaces reales -->
+  <a href="mailto:TU_CORREO"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/TU_USUARIO"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
+
+---
+
+<div align="center">
+  
+✨ *Minimalista, claro y profesional. Listo para tu perfil.* ✨
+
+</div>
