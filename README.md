@@ -46,11 +46,16 @@ Desarrollador full-stack y móvil, apasionado por crear soluciones limpias, efic
   <img src="https://skillicons.dev/icons?i=androidstudio,unity" height="40" />
 </p>
 
+### **Diseño UI / UX**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" />
+</p>
+
 ---
 
 ## 📞 Contacto
 <p>
-  <!-- Añade tus enlaces reales -->
   <a href="mailto:alejandrobernabeguerrero@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://www.linkedin.com/in/alejandro-bernab%C3%A9-guerrero-708b791b2/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/Alebernabe5"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
@@ -58,8 +63,3 @@ Desarrollador full-stack y móvil, apasionado por crear soluciones limpias, efic
 
 ---
 
-<div align="center">
-  
-
-
-</div>
