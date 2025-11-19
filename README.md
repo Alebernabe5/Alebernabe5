@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hola, soy **Spy Alejandro Bernabé Guerrero**
+# 👋 Hola, soy Alejandro Bernabé Guerrero**
 
 <!-- 👉 Aquí puedes poner tu logo -->
 <!-- <img src="URL_DE_TU_LOGO" alt="Logo" width="150"/> -->
