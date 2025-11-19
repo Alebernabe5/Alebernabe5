@@ -60,6 +60,6 @@ Desarrollador full-stack y móvil, apasionado por crear soluciones limpias, efic
 
 <div align="center">
   
-✨ *Minimalista, claro y profesional. Listo para tu perfil.* ✨
+
 
 </div>
