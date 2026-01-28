@@ -21,7 +21,8 @@ Desarrollador full-stack y móvil, apasionado por crear soluciones limpias, efic
 ## 📌 Sobre mí
 - Amante del código limpio y las arquitecturas bien pensadas.  
 - Me gusta trabajar tanto en frontend como backend.  
-- También desarrollo apps móviles y videojuegos.  
+- También desarrollo apps móviles y videojuegos.
+- Actualmente estoy estudiando la Especializacion de IA y Big Data  
 
 ---
 
