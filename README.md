@@ -29,7 +29,7 @@ Desarrollador full-stack y móvil, apasionado por crear soluciones limpias, efic
 
 ### **Lenguajes**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,php" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,js,php,py" height="40" />
 </p>
 
 ### **Frontend**
