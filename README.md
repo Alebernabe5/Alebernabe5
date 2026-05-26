@@ -21,60 +21,38 @@ Desarrollador full-stack y móvil, apasionado por crear soluciones limpias, efic
 ## 🛠️ Tecnologías que utilizo
 
 ### 📋 Lenguajes
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,java,php" />
-  <code><strong>ABAP</strong></code>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,java,php)](https://skillicons.dev) 
+`ABAP`
 
 ### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 ### ⚙️ Backend & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 
-### 💾 Bases de datos
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
-</p>
+### 💾 Bases de Datos
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite)](https://skillicons.dev)
 
 ### 🤖 IA / Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)
 
 ### 📊 Big Data & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spark,hadoop,pandas,numpy" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=pandas,numpy)](https://skillicons.dev) `Spark` `Hadoop`
 
 ### 📱 Mobile & Game Dev
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,unity" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,unity)](https://skillicons.dev)
 
 ### ☁️ Cloud & Virtualización
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=docker,aws)](https://skillicons.dev)
 
 ### 🐧 Sistemas Operativos & Servidores
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,windows)](https://skillicons.dev)
 
 ### 💻 IDEs & Herramientas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,git,github" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vscode,jupyter,git,github)](https://skillicons.dev)
 
 ### 🎨 Diseño & Oficina
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=canva,figma,xd" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=canva,figma,xd)](https://skillicons.dev)
 
 ---
 
